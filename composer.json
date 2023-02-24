@@ -30,7 +30,7 @@
         }
     ],
     "require": {
-        "craftcms/cms": "^4.0",
+        "craftcms/cms": "^3.7|^4.0",
         "embed/embed": "^3.3",
         "ext-dom": "*"
     },
